@@ -1,0 +1,2 @@
+nom1 = input(f"digite seu nome: ")
+nom2 = input(f"digite seu nome: ")
